@@ -6,6 +6,7 @@
     "material_theme_compact_sidebar": true,
     "material_theme_small_tab": true,
     "material_theme_small_statusbar": true,
+    "material_theme_panel_separator": true,
     "always_show_minimap_viewport": true,
     "color_scheme": "Packages/Materialize/schemes/Material Monokai Soda.tmTheme",
     "ensure_newline_at_eof_on_save": true,
