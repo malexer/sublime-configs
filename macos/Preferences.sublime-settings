@@ -1,0 +1,31 @@
+{
+	"added_words":
+	[
+		"composable"
+	],
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Packages/Materialize/schemes/Material Monokai Soda.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Meslo LG S for Powerline",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Python",
+		"Vintage"
+	],
+	"material_theme_compact_sidebar": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"rulers":
+	[
+		72,
+		79,
+		100
+	],
+	"save_on_focus_lost": true,
+	"soda_folder_icons": false,
+	"theme": "Material Monokai Soda.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

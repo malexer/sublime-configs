@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"Anaconda",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Class Navigator",
+		"Crontab Syntax",
+		"Dockerfile Syntax Highlighting",
+		"Git",
+		"GitGutter",
+		"IndentX",
+		"INI",
+		"MagicPython",
+		"MarkdownHighlighting",
+		"Materialize",
+		"MoveTab",
+		"Package Control",
+		"SideBarEnhancements",
+		"Syntax History",
+		"TOML",
+		"Translit"
+	]
+}
