@@ -5,17 +5,22 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AceJump",
 		"Anaconda",
 		"AutoFileName",
+		"ayu",
+		"Bear App",
 		"BracketHighlighter",
 		"Class Navigator",
+		"Color Highlight",
 		"Crontab Syntax",
 		"Dockerfile Syntax Highlighting",
 		"Git",
 		"GitGutter",
 		"IndentX",
 		"INI",
+		"JavaScript Enhancements",
 		"MagicPython",
 		"MarkdownHighlighting",
 		"Materialize",
@@ -23,7 +28,9 @@
 		"Package Control",
 		"SideBarEnhancements",
 		"Syntax History",
+		"TerminalView",
 		"TOML",
-		"Translit"
+		"Translit",
+		"TypeScript"
 	]
 }
