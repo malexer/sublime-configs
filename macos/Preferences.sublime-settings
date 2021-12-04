@@ -4,22 +4,28 @@
 		"composable"
 	],
 	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"bold_folder_labels": true,
+	"color_inactive_tabs": true,
 	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Meslo LG S for Powerline",
-	"font_size": 15,
 	// Fixing font rendering/aliasing in MacOS Mojave
 	"font_options": [ "gray_antialias" ],
 	"theme_font_options": [ "gray_antialias" ],
+	"font_size": 16,
 	"ignored_packages":
 	[
 		"Python",
 		"Vintage"
 	],
 	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
 	"material_theme_small_statusbar": true,
 	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
 	"rulers":
 	[
 		72,
@@ -27,7 +33,9 @@
 		100
 	],
 	"save_on_focus_lost": true,
+	"show_definitions": true,
 	"soda_folder_icons": false,
+	"tabs_small": true,
 	"theme": "Material Behave.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
