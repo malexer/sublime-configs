@@ -1,0 +1,17 @@
+{
+    "variables":
+    {
+    },
+    "globals":
+    {
+    },
+    "rules":
+    [
+        {
+            "name": "Comment",
+            "scope": "comment",
+            "font_style": "regular",
+            "foreground": "#b8cfe680"
+        }
+    ]
+}
