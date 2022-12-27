@@ -8,7 +8,7 @@
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/Materialize/schemes/Material Behave.tmTheme",
+	"color_scheme": "ayu-mirage.sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "SF Mono",
 	// Fixing font rendering/aliasing in MacOS Mojave
@@ -17,8 +17,7 @@
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"Anaconda",
-		"Python",
+		"python-black",
 		"Vintage",
 	],
 	"material_theme_compact_sidebar": true,
@@ -38,7 +37,7 @@
 	"show_definitions": true,
 	"soda_folder_icons": false,
 	"tabs_small": true,
-	"theme": "Material Behave.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_font_size_small": true,
