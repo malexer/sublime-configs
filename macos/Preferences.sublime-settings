@@ -39,7 +39,7 @@
 	"tabs_small": true,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_white_space_on_save": "all",
 	"ui_font_size_small": true,
 	"ui_font_source_code_pro": true,
 	"ui_separator": true,
